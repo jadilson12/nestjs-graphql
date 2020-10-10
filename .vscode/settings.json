@@ -1,0 +1,44 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "breadcrumbs.enabled": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.autoIndent": "full",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.codeLens": true,
+  "editor.colorDecorators": true,
+  "editor.cursorBlinking": "blink",
+  "editor.cursorWidth": 0,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": true,
+  "editor.dragAndDrop": true,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.letterSpacing": 0,
+  "editor.minimap.enabled": true,
+  "editor.rulers": [120],
+  "editor.suggest.showIcons": true,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 4,
+  "editor.trimAutoWhitespace": true,
+  "explorer.compactFolders": false,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true,
+    "dist": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.enabled": true
+}
